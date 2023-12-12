@@ -17,11 +17,11 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
-copyright:        'Example copyright org, 2023'
+title:            'FA23-DH-WAX'
+description:      'Bilingualism as Protest in the Trump Era'
+url:              'https://shwetantkumar.github.io/fa23-dh-wax/'
+baseurl:          '/fa23-dh-wax'
+copyright:        '2023'
 logo:             '/assets/logo.png'
 default_thumb:    '/assets/default.png'
 
